@@ -1,1 +1,1 @@
-# discussion9_java
+Week 11 JS Discussion
